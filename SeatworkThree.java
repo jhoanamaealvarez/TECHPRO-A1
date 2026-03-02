@@ -1,4 +1,4 @@
-class Animal {
+6class Animal {
     private String name;
     private int age;
 
